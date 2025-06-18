@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-driver = webdriver.Chrome()
 link = "http://suninjuly.github.io/huge_form.html"
+driver = webdriver.Chrome()
 
 try:
     driver.get(link)

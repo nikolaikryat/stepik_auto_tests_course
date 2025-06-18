@@ -20,7 +20,6 @@ try:
     time.sleep(1)
 
     welcome_text_elt = driver.find_element(By.TAG_NAME, "h1")
-    # записываем в переменную welcome_text текст из элемента welcome_text_elt
     welcome_text = welcome_text_elt.text
 
     assert "Congratulations! You have successfully registered!" == welcome_text
