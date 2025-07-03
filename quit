@@ -1,0 +1,107 @@
+[33mcommit 2a33bbd919b8d09d78d2278c6d650c615e9bd597[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Fri Jun 27 13:06:36 2025 +0300
+
+    add_unittest_script
+
+[33mcommit bb24a4e0caada3a8bc0d7017a0a54c24adfcfab4[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Thu Jun 26 23:59:22 2025 +0300
+
+    add_WebDriverWait
+
+[33mcommit 0b701bbb1fc6523870a2044b5d239b5513b498ce[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Wed Jun 25 23:42:01 2025 +0300
+
+    add .gitignore file
+
+[33mcommit 2c8c4ef5e158f8bcdc85e9b9f028957d398f6058[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sun Jun 22 23:38:52 2025 +0300
+
+    add_Implicit_Explicit_Waits_script
+
+[33mcommit 748ad3b55090a0e052b08e64669e644a645c3077[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sat Jun 21 23:47:05 2025 +0300
+
+    add_change_the_browser_tab
+
+[33mcommit 43bd57c4e5fe2f7c421e9e49768b22483aa91eac[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sat Jun 21 23:38:34 2025 +0300
+
+    add_accept_alert_script
+
+[33mcommit 6719ff0252b14afb446d611164e2c1ca2a048daa[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sat Jun 21 23:20:55 2025 +0300
+
+    add_download_file_script
+
+[33mcommit ee7883a3d113d1c9d57023b6d15d50d4eb2754f3[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Fri Jun 20 16:22:43 2025 +0300
+
+    add_sandbox_and_Ljava_script
+
+[33mcommit ffcf79a1e9cfc01298d850a2549ffac2a3ff6447[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Thu Jun 19 23:30:24 2025 +0300
+
+    dropdown_script
+
+[33mcommit 7ec1311d6e593f47bf7f1fadc387e5f5fcc9596c[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Thu Jun 19 22:55:03 2025 +0300
+
+    readme_file_change
+
+[33mcommit b70dff70757d86721f1e424a88c7a5fe8fafe85d[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Wed Jun 18 16:27:54 2025 +0300
+
+    finish_2.1_section
+
+[33mcommit 41e725f287375c639c991d762a630766d8cae010[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Tue Jun 17 19:22:04 2025 +0300
+
+    end_of_fist_block
+
+[33mcommit 21245574e968e986e2dfab2999a101b55c054e7a[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Mon Jun 9 15:20:28 2025 +0300
+
+    add elem_search_script
+
+[33mcommit 0daca40b3960810b6e499f027af804b2a2f39b55[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Mon Jun 9 14:14:56 2025 +0300
+
+    add try/finally construction
+
+[33mcommit 5e9744535cdc8356007ef246b0a8f71728d1bf23[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sun Jun 1 14:01:18 2025 +0300
+
+    add_first_script
+
+[33mcommit f17e9132dd56012aff79cea73d21977fb4a3f0e4[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sun Jun 1 14:00:39 2025 +0300
+
+    add_first_script
+
+[33mcommit 24356c0d9bc156e5c9768249ea250cfa52e1e659[m
+Author: Niko Kryat <nikolai.kryat@mail.ru>
+Date:   Sun Jun 1 12:08:07 2025 +0300
+
+    add_homework_readme
+
+[33mcommit a6b8327e8a0b2db66a026db2236948e1bacc54e6[m
+Author: nikolaikryat <138504359+nikolaikryat@users.noreply.github.com>
+Date:   Sun Jun 1 11:59:23 2025 +0300
+
+    Initial commit
