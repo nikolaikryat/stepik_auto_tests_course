@@ -6,25 +6,19 @@ link = "https://suninjuly.github.io/text_input_task.html"
 
 @pytest.fixture
 def browser():
-    print("\nstart driver for test..")
-    browser = webdriver.Chrome()
-    yield browser
-    # этот код выполнится после завершения теста
-    print("\nquit browser..")
-    browser.quit()
+        print("\nstart browser for test..")
+        browser = webdriver.Chrome()
+        yield browser
+        print("\nquit browser..")
+        browser.quit()
+
 class TestMainPage():
+    def test_get_rest(self, browser):
+        browser.get(link)
+        browser.implicitly_wait(5)
+        browser.find_element(By.CSS_SELECTOR, ".textarea").send_keys("get()")
+        browser.find_element(By.CSS_SELECTOR, ".submit-submission").click()
 
-    def setup_method(self):
-        print("start browser for test..")
-        self.browser = webdriver.Chrome()
-
-    def teardown_method(self):
-        print("quit browser for test..")
-        self.browser.quit()
-
-    def test_get_rest(self):
-    self.browser.get(link)
-    self.browser.implicitly_wait(5)
-
-    self.browser.find_element(By.CSS_SELECTOR, ".textarea").send_keys("get()")
-    self.driver.find_element(By.CSS_SELECTOR, ".submit-submission").click()
+        alert = browser.switch_to.alert
+        alert_text = ("Registration status message: ", alert.text)
+        assert "Thank you for submitting the form!" in alert_text, f"Expected 'Thank you for submitting the form!' in result, but got: 'alert_text'"
